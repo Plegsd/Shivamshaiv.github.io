@@ -1,0 +1,21 @@
+LambdaZero.examples.drug\_comb package
+======================================
+
+Submodules
+----------
+
+LambdaZero.examples.drug\_comb.new\_drugcomb\_data\_v2 module
+-------------------------------------------------------------
+
+.. automodule:: LambdaZero.examples.drug_comb.new_drugcomb_data_v2
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Module contents
+---------------
+
+.. automodule:: LambdaZero.examples.drug_comb
+   :members:
+   :undoc-members:
+   :show-inheritance:

@@ -1,0 +1,37 @@
+LambdaZero.datasets.temp\_brunos\_work.experiments package
+==========================================================
+
+Submodules
+----------
+
+LambdaZero.datasets.temp\_brunos\_work.experiments.chemprop\_experiment module
+------------------------------------------------------------------------------
+
+.. automodule:: LambdaZero.datasets.temp_brunos_work.experiments.chemprop_experiment
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+LambdaZero.datasets.temp\_brunos\_work.experiments.experiment\_utils module
+---------------------------------------------------------------------------
+
+.. automodule:: LambdaZero.datasets.temp_brunos_work.experiments.experiment_utils
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+LambdaZero.datasets.temp\_brunos\_work.experiments.mpnn\_experiment module
+--------------------------------------------------------------------------
+
+.. automodule:: LambdaZero.datasets.temp_brunos_work.experiments.mpnn_experiment
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Module contents
+---------------
+
+.. automodule:: LambdaZero.datasets.temp_brunos_work.experiments
+   :members:
+   :undoc-members:
+   :show-inheritance:
