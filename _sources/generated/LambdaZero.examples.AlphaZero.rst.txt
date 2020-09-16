@@ -1,0 +1,38 @@
+LambdaZero.examples.AlphaZero package
+=====================================
+
+Subpackages
+-----------
+
+.. toctree::
+   :maxdepth: 4
+
+   LambdaZero.examples.AlphaZero.core
+   LambdaZero.examples.AlphaZero.optimizer
+
+Submodules
+----------
+
+LambdaZero.examples.AlphaZero.config module
+-------------------------------------------
+
+.. automodule:: LambdaZero.examples.AlphaZero.config
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+LambdaZero.examples.AlphaZero.train\_az module
+----------------------------------------------
+
+.. automodule:: LambdaZero.examples.AlphaZero.train_az
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Module contents
+---------------
+
+.. automodule:: LambdaZero.examples.AlphaZero
+   :members:
+   :undoc-members:
+   :show-inheritance:

@@ -1,0 +1,37 @@
+LambdaZero.chem package
+=======================
+
+Submodules
+----------
+
+LambdaZero.chem.chem\_op module
+-------------------------------
+
+.. automodule:: LambdaZero.chem.chem_op
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+LambdaZero.chem.chimera\_op module
+----------------------------------
+
+.. automodule:: LambdaZero.chem.chimera_op
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+LambdaZero.chem.fragdb\_op module
+---------------------------------
+
+.. automodule:: LambdaZero.chem.fragdb_op
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Module contents
+---------------
+
+.. automodule:: LambdaZero.chem
+   :members:
+   :undoc-members:
+   :show-inheritance:

@@ -1,0 +1,45 @@
+LambdaZero.datasets.temp\_brunos\_work.analysis package
+=======================================================
+
+Submodules
+----------
+
+LambdaZero.datasets.temp\_brunos\_work.analysis.analyse\_d4\_data module
+------------------------------------------------------------------------
+
+.. automodule:: LambdaZero.datasets.temp_brunos_work.analysis.analyse_d4_data
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+LambdaZero.datasets.temp\_brunos\_work.analysis.analysis\_utils module
+----------------------------------------------------------------------
+
+.. automodule:: LambdaZero.datasets.temp_brunos_work.analysis.analysis_utils
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+LambdaZero.datasets.temp\_brunos\_work.analysis.chemprop\_adaptor\_d4\_data module
+----------------------------------------------------------------------------------
+
+.. automodule:: LambdaZero.datasets.temp_brunos_work.analysis.chemprop_adaptor_d4_data
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+LambdaZero.datasets.temp\_brunos\_work.analysis.problematic\_smiles module
+--------------------------------------------------------------------------
+
+.. automodule:: LambdaZero.datasets.temp_brunos_work.analysis.problematic_smiles
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Module contents
+---------------
+
+.. automodule:: LambdaZero.datasets.temp_brunos_work.analysis
+   :members:
+   :undoc-members:
+   :show-inheritance:

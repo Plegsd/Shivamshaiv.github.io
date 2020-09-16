@@ -1,0 +1,21 @@
+LambdaZero.examples.synthesizability package
+============================================
+
+Submodules
+----------
+
+LambdaZero.examples.synthesizability.vanilla\_chemprop module
+-------------------------------------------------------------
+
+.. automodule:: LambdaZero.examples.synthesizability.vanilla_chemprop
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Module contents
+---------------
+
+.. automodule:: LambdaZero.examples.synthesizability
+   :members:
+   :undoc-members:
+   :show-inheritance:

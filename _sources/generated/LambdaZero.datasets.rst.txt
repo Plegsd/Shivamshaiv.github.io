@@ -1,0 +1,18 @@
+LambdaZero.datasets package
+===========================
+
+Subpackages
+-----------
+
+.. toctree::
+   :maxdepth: 4
+
+   LambdaZero.datasets.temp_brunos_work
+
+Module contents
+---------------
+
+.. automodule:: LambdaZero.datasets
+   :members:
+   :undoc-members:
+   :show-inheritance:

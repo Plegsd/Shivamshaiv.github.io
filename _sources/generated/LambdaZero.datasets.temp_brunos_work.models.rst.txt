@@ -1,0 +1,45 @@
+LambdaZero.datasets.temp\_brunos\_work.models package
+=====================================================
+
+Submodules
+----------
+
+LambdaZero.datasets.temp\_brunos\_work.models.chemprop\_adaptor module
+----------------------------------------------------------------------
+
+.. automodule:: LambdaZero.datasets.temp_brunos_work.models.chemprop_adaptor
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+LambdaZero.datasets.temp\_brunos\_work.models.chemprop\_model module
+--------------------------------------------------------------------
+
+.. automodule:: LambdaZero.datasets.temp_brunos_work.models.chemprop_model
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+LambdaZero.datasets.temp\_brunos\_work.models.message\_passing\_model module
+----------------------------------------------------------------------------
+
+.. automodule:: LambdaZero.datasets.temp_brunos_work.models.message_passing_model
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+LambdaZero.datasets.temp\_brunos\_work.models.model\_base module
+----------------------------------------------------------------
+
+.. automodule:: LambdaZero.datasets.temp_brunos_work.models.model_base
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Module contents
+---------------
+
+.. automodule:: LambdaZero.datasets.temp_brunos_work.models
+   :members:
+   :undoc-members:
+   :show-inheritance:

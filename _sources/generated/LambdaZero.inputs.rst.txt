@@ -1,0 +1,29 @@
+LambdaZero.inputs package
+=========================
+
+Submodules
+----------
+
+LambdaZero.inputs.inputs\_op module
+-----------------------------------
+
+.. automodule:: LambdaZero.inputs.inputs_op
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+LambdaZero.inputs.split\_op module
+----------------------------------
+
+.. automodule:: LambdaZero.inputs.split_op
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Module contents
+---------------
+
+.. automodule:: LambdaZero.inputs
+   :members:
+   :undoc-members:
+   :show-inheritance:

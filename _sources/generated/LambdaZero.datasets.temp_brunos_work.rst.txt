@@ -1,0 +1,136 @@
+LambdaZero.datasets.temp\_brunos\_work package
+==============================================
+
+Subpackages
+-----------
+
+.. toctree::
+   :maxdepth: 4
+
+   LambdaZero.datasets.temp_brunos_work.analysis
+   LambdaZero.datasets.temp_brunos_work.experiments
+   LambdaZero.datasets.temp_brunos_work.loggers
+   LambdaZero.datasets.temp_brunos_work.models
+
+Submodules
+----------
+
+LambdaZero.datasets.temp\_brunos\_work.actor\_dock module
+---------------------------------------------------------
+
+.. automodule:: LambdaZero.datasets.temp_brunos_work.actor_dock
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+LambdaZero.datasets.temp\_brunos\_work.brutal\_dock\_model module
+-----------------------------------------------------------------
+
+.. automodule:: LambdaZero.datasets.temp_brunos_work.brutal_dock_model
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+LambdaZero.datasets.temp\_brunos\_work.dataset\_plots module
+------------------------------------------------------------
+
+.. automodule:: LambdaZero.datasets.temp_brunos_work.dataset_plots
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+LambdaZero.datasets.temp\_brunos\_work.dataset\_splitting module
+----------------------------------------------------------------
+
+.. automodule:: LambdaZero.datasets.temp_brunos_work.dataset_splitting
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+LambdaZero.datasets.temp\_brunos\_work.dataset\_utils module
+------------------------------------------------------------
+
+.. automodule:: LambdaZero.datasets.temp_brunos_work.dataset_utils
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+LambdaZero.datasets.temp\_brunos\_work.datasets module
+------------------------------------------------------
+
+.. automodule:: LambdaZero.datasets.temp_brunos_work.datasets
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+LambdaZero.datasets.temp\_brunos\_work.dock\_molecules\_check module
+--------------------------------------------------------------------
+
+.. automodule:: LambdaZero.datasets.temp_brunos_work.dock_molecules_check
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+LambdaZero.datasets.temp\_brunos\_work.experiment\_driver module
+----------------------------------------------------------------
+
+.. automodule:: LambdaZero.datasets.temp_brunos_work.experiment_driver
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+LambdaZero.datasets.temp\_brunos\_work.fingerprint\_split module
+----------------------------------------------------------------
+
+.. automodule:: LambdaZero.datasets.temp_brunos_work.fingerprint_split
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+LambdaZero.datasets.temp\_brunos\_work.graph\_score\_normalizer module
+----------------------------------------------------------------------
+
+.. automodule:: LambdaZero.datasets.temp_brunos_work.graph_score_normalizer
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+LambdaZero.datasets.temp\_brunos\_work.logger\_utils module
+-----------------------------------------------------------
+
+.. automodule:: LambdaZero.datasets.temp_brunos_work.logger_utils
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+LambdaZero.datasets.temp\_brunos\_work.metrics\_utils module
+------------------------------------------------------------
+
+.. automodule:: LambdaZero.datasets.temp_brunos_work.metrics_utils
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+LambdaZero.datasets.temp\_brunos\_work.model\_trainer module
+------------------------------------------------------------
+
+.. automodule:: LambdaZero.datasets.temp_brunos_work.model_trainer
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+LambdaZero.datasets.temp\_brunos\_work.parameter\_inputs module
+---------------------------------------------------------------
+
+.. automodule:: LambdaZero.datasets.temp_brunos_work.parameter_inputs
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Module contents
+---------------
+
+.. automodule:: LambdaZero.datasets.temp_brunos_work
+   :members:
+   :undoc-members:
+   :show-inheritance:
