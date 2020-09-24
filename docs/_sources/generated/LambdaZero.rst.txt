@@ -1,0 +1,24 @@
+LambdaZero package
+==================
+
+Subpackages
+-----------
+
+.. toctree::
+   :maxdepth: 4
+
+   LambdaZero.chem
+   LambdaZero.datasets
+   LambdaZero.environments
+   LambdaZero.examples
+   LambdaZero.inputs
+   LambdaZero.models
+   LambdaZero.utils
+
+Module contents
+---------------
+
+.. automodule:: LambdaZero
+   :members:
+   :undoc-members:
+   :show-inheritance:
